@@ -1,0 +1,68 @@
+body {
+  font-size: 18px;
+  background-color: #344451;
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6, p {
+  line-height: 1.45;
+  color: #e6e6e6; }
+
+h1 {
+  font-size: 4em; }
+
+h2 {
+  font-size: 3em; }
+
+h3 {
+  font-size: 2em; }
+
+h4 {
+  font-size: 1em; }
+
+h1, h2 {
+  font-family: "Exo 2", sans-serif; }
+
+h3, h4, h5, p {
+  font-family: "Yrsa", sans-serif; }
+
+blockquote {
+  border: 10px solid rgba(50, 50, 50, 0.7);
+  padding: .75em; }
+
+.citation {
+  text-align: right; }
+
+.page--wrapper {
+  margin: 0rem; }
+
+.section--hero {
+  background-image: url("../img/rhein-hero.jpg");
+  padding: 7%;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  height: 100%; }
+  .section--hero h1 {
+    text-shadow: 2px 2px 10px black;
+    color: white; }
+
+.section--main {
+  margin: auto 5%; }
+
+.image-gallery {
+  margin: auto;
+  width: 100%;
+  padding: 1em;
+  box-sizing: border-box;
+  text-align: center; }
+  .image-gallery img {
+    width: 25%; }
+
+.section--bottom {
+  background-color: #202a32;
+  margin-top: 2em; }
+  .section--bottom h2 {
+    margin: 0; }
+
+/*# sourceMappingURL=main.css.map */
